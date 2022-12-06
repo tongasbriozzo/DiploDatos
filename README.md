@@ -21,3 +21,5 @@ This Diploma consists of:
 
 - 1 Special Integrative Work (Mentorship)
   - Data Science applied to Brain-Computer Interfaces
+
+In addition, there are included the practical works of the Specialty "Neural Networks" of the Physics Degree of FaMAFyC, taught by Dr. Francisco Tamarit.
